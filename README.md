@@ -32,4 +32,4 @@ Designed for small to medium businesses and for educational purposes, SecureERP 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/SecureERP.git
+   git clone https://github.com/aleTomasz/SecureERP.git
